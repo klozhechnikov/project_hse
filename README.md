@@ -2,8 +2,8 @@
 
 ## Название 
 
-**Kings of The Ice
-**
+**Kings of The Ice**
+
 ## Состав группы
 
 Долгирев Матвей (github: mdolgirev), Ложечников Кирилл (github: klozhechnikov)
