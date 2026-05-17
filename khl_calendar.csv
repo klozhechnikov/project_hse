@@ -1,0 +1,753 @@
+﻿team_1,team_2,score,link
+СКА,Драконы,5:1,https://www.khl.ru/game/1369/897597/resume/
+Сибирь,Барыс,2:1 Б,https://www.khl.ru/game/1369/898231/resume/
+Динамо Мн,Автомобилист,8:2,https://www.khl.ru/game/1369/898232/resume/
+Динамо М,Ак Барс,5:7,https://www.khl.ru/game/1369/898233/resume/
+Трактор,Адмирал,1:0,https://www.khl.ru/game/1369/898234/resume/
+Салават Юлаев,ХК Сочи,2:1,https://www.khl.ru/game/1369/898235/resume/
+Спартак,Нефтехимик,2:3 Б,https://www.khl.ru/game/1369/898236/resume/
+Локомотив,Металлург Мг,4:1,https://www.khl.ru/game/1369/898238/resume/
+Торпедо,Амур,5:3,https://www.khl.ru/game/1369/898229/resume/
+Северсталь,Авангард,2:5,https://www.khl.ru/game/1369/898230/resume/
+Салават Юлаев,Нефтехимик,3:0,https://www.khl.ru/game/1369/898222/resume/
+Трактор,Металлург Мг,6:2,https://www.khl.ru/game/1369/898223/resume/
+ХК Сочи,Ак Барс,2:4,https://www.khl.ru/game/1369/898224/resume/
+Спартак,ЦСКА,2:3 Б,https://www.khl.ru/game/1369/898225/resume/
+Динамо М,Адмирал,1:2,https://www.khl.ru/game/1369/898226/resume/
+Сибирь,СКА,4:1,https://www.khl.ru/game/1369/898227/resume/
+Драконы,Автомобилист,2:6,https://www.khl.ru/game/1369/898228/resume/
+Динамо Мн,Авангард,3:4 ОТ,https://www.khl.ru/game/1369/898220/resume/
+Лада,Амур,5:2,https://www.khl.ru/game/1369/898221/resume/
+Металлург Мг,Автомобилист,4:3,https://www.khl.ru/game/1369/898213/resume/
+Спартак,Динамо М,3:4 Б,https://www.khl.ru/game/1369/898214/resume/
+Сибирь,ЦСКА,3:2,https://www.khl.ru/game/1369/898215/resume/
+Барыс,Адмирал,2:6,https://www.khl.ru/game/1369/898216/resume/
+Торпедо,Нефтехимик,3:6,https://www.khl.ru/game/1369/898217/resume/
+Северсталь,Ак Барс,4:2,https://www.khl.ru/game/1369/898218/resume/
+Трактор,СКА,2:1,https://www.khl.ru/game/1369/898219/resume/
+Динамо Мн,Локомотив,2:1 Б,https://www.khl.ru/game/1369/898210/resume/
+ХК Сочи,Амур,2:3,https://www.khl.ru/game/1369/898211/resume/
+Салават Юлаев,Драконы,5:3,https://www.khl.ru/game/1369/898212/resume/
+Автомобилист,ЦСКА,0:3,https://www.khl.ru/game/1369/898209/resume/
+Ак Барс,ХК Сочи,2:0,https://www.khl.ru/game/1369/898200/resume/
+Спартак,Амур,1:0 ОТ,https://www.khl.ru/game/1369/898201/resume/
+Трактор,Торпедо,3:2 ОТ,https://www.khl.ru/game/1369/898202/resume/
+Авангард,Драконы,6:1,https://www.khl.ru/game/1369/898203/resume/
+Сибирь,Металлург Мг,1:2 ОТ,https://www.khl.ru/game/1369/898204/resume/
+Салават Юлаев,Динамо М,2:3 Б,https://www.khl.ru/game/1369/898205/resume/
+Лада,Локомотив,2:4,https://www.khl.ru/game/1369/898206/resume/
+Адмирал,Барыс,6:2,https://www.khl.ru/game/1369/898207/resume/
+СКА,Северсталь,5:0,https://www.khl.ru/game/1369/898208/resume/
+Адмирал,Барыс,1:2,https://www.khl.ru/game/1369/898199/resume/
+ХК Сочи,ЦСКА,1:2,https://www.khl.ru/game/1369/898133/resume/
+Авангард,Торпедо,4:1,https://www.khl.ru/game/1369/898193/resume/
+Лада,Северсталь,1:3,https://www.khl.ru/game/1369/898194/resume/
+Динамо М,Драконы,4:2,https://www.khl.ru/game/1369/898195/resume/
+Салават Юлаев,Металлург Мг,1:2 ОТ,https://www.khl.ru/game/1369/898196/resume/
+СКА,Динамо Мн,4:3,https://www.khl.ru/game/1369/898197/resume/
+Автомобилист,Локомотив,4:1,https://www.khl.ru/game/1369/898198/resume/
+ЦСКА,ХК Сочи,2:1,https://www.khl.ru/game/1369/898189/resume/
+Нефтехимик,Трактор,2:1 ОТ,https://www.khl.ru/game/1369/898190/resume/
+Амур,Барыс,0:3,https://www.khl.ru/game/1369/898191/resume/
+Ак Барс,Спартак,4:1,https://www.khl.ru/game/1369/898192/resume/
+Авангард,Сибирь,1:2 Б,https://www.khl.ru/game/1369/898186/resume/
+Динамо М,Динамо Мн,6:4,https://www.khl.ru/game/1369/898187/resume/
+Локомотив,Северсталь,4:3 ОТ,https://www.khl.ru/game/1369/898188/resume/
+Торпедо,ХК Сочи,4:3,https://www.khl.ru/game/1369/898182/resume/
+Металлург Мг,Трактор,3:2 Б,https://www.khl.ru/game/1369/898183/resume/
+Лада,Спартак,2:5,https://www.khl.ru/game/1369/898185/resume/
+Динамо М,СКА,1:2 ОТ,https://www.khl.ru/game/1369/898177/resume/
+Адмирал,Нефтехимик,3:4,https://www.khl.ru/game/1369/898178/resume/
+Лада,Спартак,1:7,https://www.khl.ru/game/1369/898179/resume/
+Амур,Салават Юлаев,6:3,https://www.khl.ru/game/1369/898180/resume/
+Ак Барс,Сибирь,6:3,https://www.khl.ru/game/1369/898181/resume/
+Драконы,Барыс,4:8,https://www.khl.ru/game/1369/898184/resume/
+ХК Сочи,Авангард,3:1,https://www.khl.ru/game/1369/898174/resume/
+ЦСКА,Трактор,1:0,https://www.khl.ru/game/1369/898175/resume/
+Металлург Мг,Автомобилист,1:3,https://www.khl.ru/game/1369/898176/resume/
+Адмирал,Нефтехимик,7:3,https://www.khl.ru/game/1369/898170/resume/
+Драконы,Сибирь,1:2,https://www.khl.ru/game/1369/898171/resume/
+Амур,Салават Юлаев,1:4,https://www.khl.ru/game/1369/898172/resume/
+Динамо Мн,СКА,1:2 ОТ,https://www.khl.ru/game/1369/898173/resume/
+ХК Сочи,Локомотив,2:3,https://www.khl.ru/game/1369/898166/resume/
+ЦСКА,Авангард,0:2,https://www.khl.ru/game/1369/898167/resume/
+Торпедо,Трактор,0:5,https://www.khl.ru/game/1369/898168/resume/
+Динамо М,Автомобилист,0:4,https://www.khl.ru/game/1369/898169/resume/
+Адмирал,Салават Юлаев,1:2 Б,https://www.khl.ru/game/1369/898162/resume/
+Лада,Ак Барс,5:3,https://www.khl.ru/game/1369/898163/resume/
+Амур,Нефтехимик,3:1,https://www.khl.ru/game/1369/898164/resume/
+Динамо Мн,Металлург Мг,0:3,https://www.khl.ru/game/1369/898165/resume/
+СКА,Барыс,7:0,https://www.khl.ru/game/1369/898158/resume/
+Северсталь,Локомотив,2:3 Б,https://www.khl.ru/game/1369/898159/resume/
+ЦСКА,Автомобилист,0:1,https://www.khl.ru/game/1369/898160/resume/
+Спартак,Авангард,1:4,https://www.khl.ru/game/1369/898161/resume/
+Лада,Драконы,1:2,https://www.khl.ru/game/1369/898152/resume/
+ХК Сочи,Торпедо,5:1,https://www.khl.ru/game/1369/898153/resume/
+Динамо М,Металлург Мг,4:1,https://www.khl.ru/game/1369/898154/resume/
+Трактор,Ак Барс,0:1,https://www.khl.ru/game/1369/898155/resume/
+Амур,Нефтехимик,3:2,https://www.khl.ru/game/1369/898156/resume/
+Адмирал,Салават Юлаев,4:2,https://www.khl.ru/game/1369/898157/resume/
+Спартак,Барыс,5:3,https://www.khl.ru/game/1369/898150/resume/
+СКА,Локомотив,2:5,https://www.khl.ru/game/1369/898151/resume/
+ХК Сочи,Динамо Мн,2:3,https://www.khl.ru/game/1369/898145/resume/
+Северсталь,Торпедо,1:2,https://www.khl.ru/game/1369/898146/resume/
+Авангард,Металлург Мг,3:2 ОТ,https://www.khl.ru/game/1369/898147/resume/
+ЦСКА,Драконы,6:5 ОТ,https://www.khl.ru/game/1369/898148/resume/
+Автомобилист,Ак Барс,3:2 Б,https://www.khl.ru/game/1369/898149/resume/
+Спартак,Адмирал,6:3,https://www.khl.ru/game/1369/898142/resume/
+Салават Юлаев,Трактор,3:2 Б,https://www.khl.ru/game/1369/898143/resume/
+СКА,Динамо М,1:4,https://www.khl.ru/game/1369/898144/resume/
+ЦСКА,Нефтехимик,2:0,https://www.khl.ru/game/1369/898139/resume/
+Ак Барс,Лада,4:5 Б,https://www.khl.ru/game/1369/898140/resume/
+ХК Сочи,Динамо Мн,2:7,https://www.khl.ru/game/1369/898141/resume/
+Локомотив,Динамо М,3:1,https://www.khl.ru/game/1369/898134/resume/
+Металлург Мг,Северсталь,3:4 ОТ,https://www.khl.ru/game/1369/898135/resume/
+СКА,Адмирал,4:2,https://www.khl.ru/game/1369/898136/resume/
+Салават Юлаев,Сибирь,3:2 ОТ,https://www.khl.ru/game/1369/898137/resume/
+Автомобилист,Авангард,5:1,https://www.khl.ru/game/1369/898138/resume/
+Трактор,Лада,4:2,https://www.khl.ru/game/1369/898131/resume/
+Торпедо,Динамо Мн,3:4,https://www.khl.ru/game/1369/898132/resume/
+Салават Юлаев,Спартак,3:5,https://www.khl.ru/game/1369/898125/resume/
+Нефтехимик,Сибирь,1:0,https://www.khl.ru/game/1369/898126/resume/
+Металлург Мг,Адмирал,4:3 ОТ,https://www.khl.ru/game/1369/898127/resume/
+Автомобилист,Драконы,4:1,https://www.khl.ru/game/1369/898128/resume/
+Авангард,Амур,3:4,https://www.khl.ru/game/1369/898129/resume/
+Барыс,Северсталь,2:3 ОТ,https://www.khl.ru/game/1369/898130/resume/
+Локомотив,Динамо Мн,5:4 Б,https://www.khl.ru/game/1369/898122/resume/
+Торпедо,Ак Барс,3:2 Б,https://www.khl.ru/game/1369/898123/resume/
+СКА,ЦСКА,3:0,https://www.khl.ru/game/1369/898124/resume/
+Барыс,Драконы,3:4 ОТ,https://www.khl.ru/game/1369/898116/resume/
+Трактор,Северсталь,5:2,https://www.khl.ru/game/1369/898117/resume/
+Нефтехимик,Спартак,2:0,https://www.khl.ru/game/1369/898118/resume/
+Автомобилист,Адмирал,2:5,https://www.khl.ru/game/1369/898119/resume/
+Металлург Мг,Амур,3:1,https://www.khl.ru/game/1369/898120/resume/
+Авангард,Сибирь,2:1 Б,https://www.khl.ru/game/1369/898121/resume/
+Динамо М,ХК Сочи,4:0,https://www.khl.ru/game/1369/898114/resume/
+Лада,Ак Барс,2:4,https://www.khl.ru/game/1369/898115/resume/
+Трактор,Салават Юлаев,0:6,https://www.khl.ru/game/1369/898109/resume/
+Динамо Мн,Спартак,6:1,https://www.khl.ru/game/1369/898110/resume/
+Сибирь,Амур,1:2 ОТ,https://www.khl.ru/game/1369/898111/resume/
+Торпедо,Драконы,4:3 ОТ,https://www.khl.ru/game/1369/898112/resume/
+СКА,Северсталь,2:3 Б,https://www.khl.ru/game/1369/898113/resume/
+Локомотив,Нефтехимик,1:0,https://www.khl.ru/game/1369/898104/resume/
+Авангард,Ак Барс,2:5,https://www.khl.ru/game/1369/898105/resume/
+Барыс,Металлург Мг,2:3 ОТ,https://www.khl.ru/game/1369/898106/resume/
+Лада,ЦСКА,2:1,https://www.khl.ru/game/1369/898107/resume/
+Автомобилист,ХК Сочи,4:1,https://www.khl.ru/game/1369/898108/resume/
+СКА,Салават Юлаев,4:0,https://www.khl.ru/game/1369/898102/resume/
+Адмирал,Амур,0:3,https://www.khl.ru/game/1369/898103/resume/
+Северсталь,Нефтехимик,3:1,https://www.khl.ru/game/1369/898096/resume/
+Торпедо,Динамо М,2:4,https://www.khl.ru/game/1369/898097/resume/
+Авангард,Трактор,6:2,https://www.khl.ru/game/1369/898098/resume/
+Автомобилист,Металлург Мг,8:1,https://www.khl.ru/game/1369/898099/resume/
+Спартак,Динамо Мн,4:3,https://www.khl.ru/game/1369/898100/resume/
+Драконы,ЦСКА,1:2 ОТ,https://www.khl.ru/game/1369/898101/resume/
+Барыс,Лада,5:3,https://www.khl.ru/game/1369/898094/resume/
+ХК Сочи,Локомотив,1:2 ОТ,https://www.khl.ru/game/1369/898095/resume/
+Салават Юлаев,Металлург Мг,4:3 Б,https://www.khl.ru/game/1369/898090/resume/
+Адмирал,Трактор,2:3,https://www.khl.ru/game/1369/898091/resume/
+Амур,Авангард,2:6,https://www.khl.ru/game/1369/898092/resume/
+Автомобилист,Динамо М,1:2,https://www.khl.ru/game/1369/898093/resume/
+Барыс,СКА,0:5,https://www.khl.ru/game/1369/898083/resume/
+Нефтехимик,ХК Сочи,3:5,https://www.khl.ru/game/1369/898084/resume/
+Сибирь,Лада,3:2 ОТ,https://www.khl.ru/game/1369/898085/resume/
+Ак Барс,Торпедо,4:3 ОТ,https://www.khl.ru/game/1369/898086/resume/
+Драконы,Северсталь,2:3,https://www.khl.ru/game/1369/898087/resume/
+Динамо Мн,Локомотив,4:2,https://www.khl.ru/game/1369/898088/resume/
+Спартак,ЦСКА,0:2,https://www.khl.ru/game/1369/898089/resume/
+Адмирал,Авангард,2:3 Б,https://www.khl.ru/game/1369/898081/resume/
+Амур,Трактор,5:6,https://www.khl.ru/game/1369/898082/resume/
+Лада,Торпедо,3:1,https://www.khl.ru/game/1369/898074/resume/
+Нефтехимик,СКА,1:5,https://www.khl.ru/game/1369/898075/resume/
+Металлург Мг,Автомобилист,4:1,https://www.khl.ru/game/1369/898076/resume/
+Сибирь,ХК Сочи,10:1,https://www.khl.ru/game/1369/898077/resume/
+Драконы,Локомотив,0:2,https://www.khl.ru/game/1369/898078/resume/
+Динамо Мн,Северсталь,7:4,https://www.khl.ru/game/1369/898079/resume/
+Спартак,Динамо М,2:3,https://www.khl.ru/game/1369/898080/resume/
+KHL Ural Stars,KHL World Stars,9:6,https://www.khl.ru/game/1423/901628/resume/
+KHL RUS Stars,KHL U23 Stars,9:2,https://www.khl.ru/game/1423/901629/resume/
+KHL U23 Stars,KHL World Stars,8:5,https://www.khl.ru/game/1423/901626/resume/
+KHL Ural Stars,KHL RUS Stars,3:6,https://www.khl.ru/game/1423/901627/resume/
+Северсталь,СКА,1:3,https://www.khl.ru/game/1369/898070/resume/
+Лада,Динамо Мн,3:8,https://www.khl.ru/game/1369/898071/resume/
+Драконы,ЦСКА,0:1,https://www.khl.ru/game/1369/898072/resume/
+Авангард,Автомобилист,2:3 ОТ,https://www.khl.ru/game/1369/898073/resume/
+Амур,Торпедо,1:2,https://www.khl.ru/game/1369/898065/resume/
+Сибирь,Нефтехимик,2:5,https://www.khl.ru/game/1369/898066/resume/
+Адмирал,Барыс,1:4,https://www.khl.ru/game/1369/898067/resume/
+Трактор,Ак Барс,4:0,https://www.khl.ru/game/1369/898068/resume/
+Локомотив,Спартак,3:1,https://www.khl.ru/game/1369/898069/resume/
+Драконы,Авангард,3:5,https://www.khl.ru/game/1369/898061/resume/
+ЦСКА,ХК Сочи,3:1,https://www.khl.ru/game/1369/898062/resume/
+Динамо Мн,СКА,3:4 Б,https://www.khl.ru/game/1369/898063/resume/
+Лада,Металлург Мг,2:3,https://www.khl.ru/game/1369/898064/resume/
+Северсталь,Спартак,1:5,https://www.khl.ru/game/1369/898056/resume/
+Салават Юлаев,Нефтехимик,2:1,https://www.khl.ru/game/1369/898057/resume/
+Сибирь,Ак Барс,3:2 Б,https://www.khl.ru/game/1369/898058/resume/
+Адмирал,Торпедо,2:3 ОТ,https://www.khl.ru/game/1369/898059/resume/
+Амур,Барыс,4:2,https://www.khl.ru/game/1369/898060/resume/
+ЦСКА,СКА,3:2 Б,https://www.khl.ru/game/1369/898053/resume/
+Локомотив,ХК Сочи,3:0,https://www.khl.ru/game/1369/898054/resume/
+Динамо М,Авангард,1:4,https://www.khl.ru/game/1369/898055/resume/
+Салават Юлаев,Торпедо,3:1,https://www.khl.ru/game/1369/898047/resume/
+Сибирь,Трактор,1:3,https://www.khl.ru/game/1369/898048/resume/
+Металлург Мг,Динамо Мн,5:4,https://www.khl.ru/game/1369/898049/resume/
+Амур,Барыс,2:1 Б,https://www.khl.ru/game/1369/898050/resume/
+Адмирал,Автомобилист,1:4,https://www.khl.ru/game/1369/898051/resume/
+Ак Барс,Нефтехимик,6:1,https://www.khl.ru/game/1369/898052/resume/
+Спартак,СКА,4:0,https://www.khl.ru/game/1369/898043/resume/
+Драконы,ХК Сочи,5:2,https://www.khl.ru/game/1369/898044/resume/
+Динамо М,Северсталь,2:3,https://www.khl.ru/game/1369/898045/resume/
+Локомотив,Лада,3:1,https://www.khl.ru/game/1369/898046/resume/
+Драконы,ХК Сочи,1:2,https://www.khl.ru/game/1369/897972/resume/
+Сибирь,Динамо Мн,4:1,https://www.khl.ru/game/1369/898040/resume/
+Авангард,Трактор,1:0,https://www.khl.ru/game/1369/898041/resume/
+Амур,Автомобилист,5:2,https://www.khl.ru/game/1369/898042/resume/
+Спартак,Лада,6:2,https://www.khl.ru/game/1369/898035/resume/
+Барыс,Адмирал,2:5,https://www.khl.ru/game/1369/898036/resume/
+Динамо М,ЦСКА,2:4,https://www.khl.ru/game/1369/898037/resume/
+Ак Барс,Салават Юлаев,3:4 ОТ,https://www.khl.ru/game/1369/898038/resume/
+Торпедо,Северсталь,2:3 ОТ,https://www.khl.ru/game/1369/898039/resume/
+Металлург Мг,Трактор,3:2,https://www.khl.ru/game/1369/898033/resume/
+СКА,Локомотив,1:3,https://www.khl.ru/game/1369/898034/resume/
+Динамо Мн,Салават Юлаев,1:2 ОТ,https://www.khl.ru/game/1369/898026/resume/
+Автомобилист,Амур,4:2,https://www.khl.ru/game/1369/898027/resume/
+ХК Сочи,Драконы,2:6,https://www.khl.ru/game/1369/898028/resume/
+Авангард,Адмирал,5:2,https://www.khl.ru/game/1369/898029/resume/
+Динамо М,Лада,3:1,https://www.khl.ru/game/1369/898030/resume/
+Торпедо,Сибирь,2:4,https://www.khl.ru/game/1369/898031/resume/
+ЦСКА,Северсталь,4:2,https://www.khl.ru/game/1369/898032/resume/
+Спартак,Локомотив,2:3 ОТ,https://www.khl.ru/game/1369/898025/resume/
+Нефтехимик,Барыс,3:2,https://www.khl.ru/game/1369/898018/resume/
+Металлург Мг,Амур,4:2,https://www.khl.ru/game/1369/898019/resume/
+Ак Барс,Сибирь,2:3 Б,https://www.khl.ru/game/1369/898020/resume/
+ХК Сочи,Салават Юлаев,1:2,https://www.khl.ru/game/1369/898021/resume/
+Динамо Мн,Драконы,6:1,https://www.khl.ru/game/1369/898022/resume/
+Трактор,Адмирал,3:1,https://www.khl.ru/game/1369/898023/resume/
+Торпедо,СКА,6:0,https://www.khl.ru/game/1369/898024/resume/
+Лада,Динамо М,2:1,https://www.khl.ru/game/1369/898017/resume/
+Автомобилист,Авангард,1:2 ОТ,https://www.khl.ru/game/1369/898012/resume/
+ЦСКА,Барыс,1:0,https://www.khl.ru/game/1369/898013/resume/
+Торпедо,Драконы,7:2,https://www.khl.ru/game/1369/898014/resume/
+Металлург Мг,Сибирь,1:2,https://www.khl.ru/game/1369/898015/resume/
+СКА,Спартак,1:2,https://www.khl.ru/game/1369/898016/resume/
+ХК Сочи,Северсталь,4:5 ОТ,https://www.khl.ru/game/1369/898008/resume/
+Адмирал,Ак Барс,1:4,https://www.khl.ru/game/1369/898009/resume/
+Локомотив,Динамо Мн,2:1,https://www.khl.ru/game/1369/898010/resume/
+Нефтехимик,Динамо М,2:1 Б,https://www.khl.ru/game/1369/898011/resume/
+Салават Юлаев,Авангард,2:5,https://www.khl.ru/game/1369/898004/resume/
+Автомобилист,Сибирь,2:0,https://www.khl.ru/game/1369/898005/resume/
+Лада,Барыс,2:0,https://www.khl.ru/game/1369/898006/resume/
+Драконы,Спартак,1:3,https://www.khl.ru/game/1369/898007/resume/
+Локомотив,Торпедо,1:3,https://www.khl.ru/game/1369/897999/resume/
+Амур,Металлург Мг,3:4,https://www.khl.ru/game/1369/898000/resume/
+Адмирал,Ак Барс,2:5,https://www.khl.ru/game/1369/898001/resume/
+СКА,Динамо Мн,3:4,https://www.khl.ru/game/1369/898002/resume/
+Динамо М,Северсталь,5:4 Б,https://www.khl.ru/game/1369/898003/resume/
+Трактор,Авангард,2:5,https://www.khl.ru/game/1369/897997/resume/
+Лада,ХК Сочи,4:0,https://www.khl.ru/game/1369/897998/resume/
+Спартак,Торпедо,0:1,https://www.khl.ru/game/1369/897989/resume/
+Сибирь,Нефтехимик,1:3,https://www.khl.ru/game/1369/897990/resume/
+Автомобилист,Салават Юлаев,6:2,https://www.khl.ru/game/1369/897991/resume/
+Адмирал,Металлург Мг,4:8,https://www.khl.ru/game/1369/897992/resume/
+Амур,Ак Барс,0:3,https://www.khl.ru/game/1369/897993/resume/
+Динамо М,Динамо Мн,2:3,https://www.khl.ru/game/1369/897994/resume/
+Локомотив,Драконы,2:0,https://www.khl.ru/game/1369/897995/resume/
+Барыс,ЦСКА,3:1,https://www.khl.ru/game/1369/897996/resume/
+СКА,ХК Сочи,1:2,https://www.khl.ru/game/1369/897988/resume/
+Лада,Салават Юлаев,2:5,https://www.khl.ru/game/1369/897983/resume/
+Барыс,Нефтехимик,0:1,https://www.khl.ru/game/1369/897984/resume/
+Амур,Ак Барс,3:5,https://www.khl.ru/game/1369/897985/resume/
+Северсталь,Динамо Мн,6:4,https://www.khl.ru/game/1369/897986/resume/
+Авангард,ЦСКА,2:1,https://www.khl.ru/game/1369/897987/resume/
+Металлург Мг,ХК Сочи,9:0,https://www.khl.ru/game/1369/897978/resume/
+Автомобилист,Трактор,4:1,https://www.khl.ru/game/1369/897979/resume/
+Драконы,СКА,2:5,https://www.khl.ru/game/1369/897980/resume/
+Торпедо,Локомотив,3:0,https://www.khl.ru/game/1369/897981/resume/
+Динамо М,Спартак,3:5,https://www.khl.ru/game/1369/897982/resume/
+Северсталь,Сибирь,2:3,https://www.khl.ru/game/1369/897975/resume/
+Авангард,Салават Юлаев,3:4,https://www.khl.ru/game/1369/897976/resume/
+Ак Барс,Нефтехимик,0:2,https://www.khl.ru/game/1369/897977/resume/
+Лада,СКА,3:4 Б,https://www.khl.ru/game/1369/897970/resume/
+Динамо М,Торпедо,3:4 ОТ,https://www.khl.ru/game/1369/897971/resume/
+Динамо Мн,Адмирал,2:1,https://www.khl.ru/game/1369/897973/resume/
+Автомобилист,Барыс,2:1 ОТ,https://www.khl.ru/game/1369/897974/resume/
+ЦСКА,Спартак,2:1,https://www.khl.ru/game/1369/897968/resume/
+Трактор,Сибирь,4:1,https://www.khl.ru/game/1369/897969/resume/
+Нефтехимик,Адмирал,4:2,https://www.khl.ru/game/1369/897964/resume/
+Металлург Мг,СКА,5:1,https://www.khl.ru/game/1369/897965/resume/
+Салават Юлаев,Барыс,3:1,https://www.khl.ru/game/1369/897966/resume/
+Северсталь,Торпедо,7:6,https://www.khl.ru/game/1369/897967/resume/
+Трактор,Амур,4:2,https://www.khl.ru/game/1369/897961/resume/
+ХК Сочи,Лада,1:4,https://www.khl.ru/game/1369/897962/resume/
+ЦСКА,Драконы,3:2,https://www.khl.ru/game/1369/897963/resume/
+Северсталь,Динамо Мн,4:3,https://www.khl.ru/game/1369/897955/resume/
+Салават Юлаев,Автомобилист,4:1,https://www.khl.ru/game/1369/897956/resume/
+Сибирь,Локомотив,2:3 ОТ,https://www.khl.ru/game/1369/897957/resume/
+Нефтехимик,Адмирал,3:2 Б,https://www.khl.ru/game/1369/897958/resume/
+Ак Барс,Барыс,3:1,https://www.khl.ru/game/1369/897959/resume/
+Металлург Мг,Авангард,2:1,https://www.khl.ru/game/1369/897960/resume/
+Драконы,Амур,2:0,https://www.khl.ru/game/1369/897952/resume/
+СКА,Лада,5:4 ОТ,https://www.khl.ru/game/1369/897953/resume/
+ХК Сочи,Динамо М,0:3,https://www.khl.ru/game/1369/897954/resume/
+Ак Барс,Авангард,1:2,https://www.khl.ru/game/1369/897945/resume/
+Северсталь,Спартак,1:2,https://www.khl.ru/game/1369/897946/resume/
+Сибирь,Адмирал,5:2,https://www.khl.ru/game/1369/897947/resume/
+Металлург Мг,Локомотив,5:4 ОТ,https://www.khl.ru/game/1369/897948/resume/
+Трактор,Автомобилист,3:1,https://www.khl.ru/game/1369/897949/resume/
+Торпедо,Барыс,3:2,https://www.khl.ru/game/1369/897950/resume/
+ЦСКА,Динамо Мн,4:2,https://www.khl.ru/game/1369/897951/resume/
+ХК Сочи,Динамо М,2:0,https://www.khl.ru/game/1369/897942/resume/
+Салават Юлаев,Нефтехимик,2:1,https://www.khl.ru/game/1369/897943/resume/
+Драконы,Лада,3:2,https://www.khl.ru/game/1369/897944/resume/
+Торпедо,Спартак,6:7,https://www.khl.ru/game/1369/897936/resume/
+Ак Барс,Автомобилист,5:0,https://www.khl.ru/game/1369/897937/resume/
+Сибирь,Авангард,2:5,https://www.khl.ru/game/1369/897938/resume/
+ЦСКА,Локомотив,1:2 Б,https://www.khl.ru/game/1369/897939/resume/
+Трактор,Динамо Мн,5:4,https://www.khl.ru/game/1369/897940/resume/
+Адмирал,Амур,3:2,https://www.khl.ru/game/1369/897932/resume/
+Северсталь,Лада,4:2,https://www.khl.ru/game/1369/897933/resume/
+ХК Сочи,Нефтехимик,2:1,https://www.khl.ru/game/1369/897934/resume/
+Драконы,Металлург Мг,3:7,https://www.khl.ru/game/1369/897935/resume/
+Амур,Сибирь,2:3 ОТ,https://www.khl.ru/game/1369/897924/resume/
+ЦСКА,Динамо М,5:1,https://www.khl.ru/game/1369/897925/resume/
+Ак Барс,Северсталь,4:3 Б,https://www.khl.ru/game/1369/897926/resume/
+Локомотив,Торпедо,1:0,https://www.khl.ru/game/1369/897927/resume/
+Автомобилист,Лада,4:3,https://www.khl.ru/game/1369/897928/resume/
+Авангард,Барыс,2:4,https://www.khl.ru/game/1369/897929/resume/
+Салават Юлаев,Динамо Мн,2:3 ОТ,https://www.khl.ru/game/1369/897930/resume/
+Драконы,СКА,2:3,https://www.khl.ru/game/1369/897931/resume/
+Металлург Мг,Трактор,5:4 ОТ,https://www.khl.ru/game/1369/897923/resume/
+Салават Юлаев,Северсталь,2:1 Б,https://www.khl.ru/game/1369/897916/resume/
+ЦСКА,Спартак,2:1,https://www.khl.ru/game/1369/897917/resume/
+Авангард,Лада,4:3 Б,https://www.khl.ru/game/1369/897918/resume/
+ХК Сочи,СКА,8:4,https://www.khl.ru/game/1369/897919/resume/
+Динамо Мн,Динамо М,5:3,https://www.khl.ru/game/1369/897920/resume/
+Нефтехимик,Торпедо,5:0,https://www.khl.ru/game/1369/897921/resume/
+Адмирал,Сибирь,2:3 ОТ,https://www.khl.ru/game/1369/897922/resume/
+Ак Барс,Трактор,3:2,https://www.khl.ru/game/1369/897914/resume/
+Барыс,Амур,1:4,https://www.khl.ru/game/1369/897915/resume/
+Авангард,Металлург Мг,2:1 Б,https://www.khl.ru/game/1369/897910/resume/
+Динамо Мн,СКА,1:4,https://www.khl.ru/game/1369/897911/resume/
+Адмирал,Сибирь,2:4,https://www.khl.ru/game/1369/897912/resume/
+Драконы,Нефтехимик,3:4 ОТ,https://www.khl.ru/game/1369/897913/resume/
+Локомотив,Динамо М,0:2,https://www.khl.ru/game/1369/897904/resume/
+Барыс,Автомобилист,1:4,https://www.khl.ru/game/1369/897905/resume/
+Торпедо,ЦСКА,2:3 ОТ,https://www.khl.ru/game/1369/897906/resume/
+Лада,Трактор,1:6,https://www.khl.ru/game/1369/897907/resume/
+Северсталь,ХК Сочи,4:3 ОТ,https://www.khl.ru/game/1369/897908/resume/
+Салават Юлаев,Амур,4:2,https://www.khl.ru/game/1369/897909/resume/
+Драконы,Спартак,4:3 Б,https://www.khl.ru/game/1369/897902/resume/
+Авангард,Нефтехимик,4:3 ОТ,https://www.khl.ru/game/1369/897903/resume/
+Северсталь,ЦСКА,3:1,https://www.khl.ru/game/1369/897895/resume/
+Динамо Мн,Динамо М,7:1,https://www.khl.ru/game/1369/897896/resume/
+Торпедо,ХК Сочи,4:1,https://www.khl.ru/game/1369/897897/resume/
+Барыс,Трактор,0:2,https://www.khl.ru/game/1369/897898/resume/
+Сибирь,Автомобилист,0:5,https://www.khl.ru/game/1369/897899/resume/
+Локомотив,Адмирал,3:2,https://www.khl.ru/game/1369/897900/resume/
+Салават Юлаев,Амур,2:4,https://www.khl.ru/game/1369/897901/resume/
+Металлург Мг,Нефтехимик,4:3 Б,https://www.khl.ru/game/1369/897892/resume/
+Драконы,Спартак,1:3,https://www.khl.ru/game/1369/897894/resume/
+Автомобилист,Адмирал,3:2,https://www.khl.ru/game/1369/897887/resume/
+Барыс,ХК Сочи,1:5,https://www.khl.ru/game/1369/897888/resume/
+Сибирь,Амур,4:2,https://www.khl.ru/game/1369/897889/resume/
+Динамо Мн,Лада,7:2,https://www.khl.ru/game/1369/897890/resume/
+ЦСКА,Динамо М,0:1 Б,https://www.khl.ru/game/1369/897891/resume/
+Салават Юлаев,Ак Барс,1:2,https://www.khl.ru/game/1369/897884/resume/
+СКА,Спартак,1:2,https://www.khl.ru/game/1369/897885/resume/
+Локомотив,Авангард,0:3,https://www.khl.ru/game/1369/897886/resume/
+Сибирь,Адмирал,2:3,https://www.khl.ru/game/1369/897881/resume/
+Драконы,Лада,2:4,https://www.khl.ru/game/1369/897882/resume/
+Трактор,Металлург Мг,4:7,https://www.khl.ru/game/1369/897883/resume/
+Динамо М,Барыс,2:4,https://www.khl.ru/game/1369/897875/resume/
+Нефтехимик,Авангард,0:3,https://www.khl.ru/game/1369/897876/resume/
+Локомотив,ЦСКА,2:1 Б,https://www.khl.ru/game/1369/897877/resume/
+Северсталь,Салават Юлаев,1:2,https://www.khl.ru/game/1369/897878/resume/
+Автомобилист,Динамо Мн,3:2 Б,https://www.khl.ru/game/1369/897879/resume/
+СКА,Ак Барс,3:2,https://www.khl.ru/game/1369/897893/resume/
+Амур,Адмирал,3:1,https://www.khl.ru/game/1369/897873/resume/
+ХК Сочи,Металлург Мг,1:6,https://www.khl.ru/game/1369/897874/resume/
+Динамо М,Спартак,1:0,https://www.khl.ru/game/1369/897865/resume/
+Локомотив,Динамо Мн,3:2 Б,https://www.khl.ru/game/1369/897866/resume/
+Ак Барс,Салават Юлаев,6:3,https://www.khl.ru/game/1369/897867/resume/
+Автомобилист,Барыс,1:4,https://www.khl.ru/game/1369/897868/resume/
+Сибирь,Авангард,4:2,https://www.khl.ru/game/1369/897869/resume/
+СКА,Драконы,4:1,https://www.khl.ru/game/1369/897870/resume/
+Лада,ЦСКА,2:4,https://www.khl.ru/game/1369/897871/resume/
+Нефтехимик,Торпедо,2:5,https://www.khl.ru/game/1369/897872/resume/
+Нефтехимик,Ак Барс,1:3,https://www.khl.ru/game/1369/897859/resume/
+Салават Юлаев,ЦСКА,1:3,https://www.khl.ru/game/1369/897860/resume/
+Авангард,Спартак,7:5,https://www.khl.ru/game/1369/897861/resume/
+Трактор,Динамо М,4:8,https://www.khl.ru/game/1369/897862/resume/
+Лада,Северсталь,2:3,https://www.khl.ru/game/1369/897863/resume/
+Барыс,Сибирь,1:2 Б,https://www.khl.ru/game/1369/897864/resume/
+СКА,Амур,3:4 Б,https://www.khl.ru/game/1369/897941/resume/
+Адмирал,Локомотив,1:3,https://www.khl.ru/game/1369/897857/resume/
+Амур,СКА,1:2 ОТ,https://www.khl.ru/game/1369/897858/resume/
+Трактор,ЦСКА,2:3,https://www.khl.ru/game/1369/897850/resume/
+Салават Юлаев,Ак Барс,4:1,https://www.khl.ru/game/1369/897851/resume/
+Драконы,Торпедо,3:4 Б,https://www.khl.ru/game/1369/897852/resume/
+Нефтехимик,Металлург Мг,2:1 ОТ,https://www.khl.ru/game/1369/897853/resume/
+Лада,Динамо М,2:4,https://www.khl.ru/game/1369/897854/resume/
+Автомобилист,Северсталь,4:1,https://www.khl.ru/game/1369/897855/resume/
+Барыс,Спартак,4:3 ОТ,https://www.khl.ru/game/1369/897856/resume/
+Авангард,ХК Сочи,5:2,https://www.khl.ru/game/1369/897847/resume/
+Амур,Локомотив,0:3,https://www.khl.ru/game/1369/897848/resume/
+Адмирал,СКА,1:3,https://www.khl.ru/game/1369/897849/resume/
+Северсталь,Динамо М,0:1 ОТ,https://www.khl.ru/game/1369/897841/resume/
+ЦСКА,Торпедо,4:5 Б,https://www.khl.ru/game/1369/897842/resume/
+Автомобилист,Металлург Мг,5:6,https://www.khl.ru/game/1369/897843/resume/
+Сибирь,Спартак,6:7 ОТ,https://www.khl.ru/game/1369/897844/resume/
+Ак Барс,Трактор,5:3,https://www.khl.ru/game/1369/897845/resume/
+Драконы,Салават Юлаев,3:2,https://www.khl.ru/game/1369/897846/resume/
+Амур,Динамо Мн,2:3 Б,https://www.khl.ru/game/1369/897838/resume/
+Адмирал,ХК Сочи,2:4,https://www.khl.ru/game/1369/897839/resume/
+Локомотив,СКА,3:4 ОТ,https://www.khl.ru/game/1369/897840/resume/
+ЦСКА,Салават Юлаев,2:3 Б,https://www.khl.ru/game/1369/897834/resume/
+Северсталь,Трактор,3:2,https://www.khl.ru/game/1369/897835/resume/
+Сибирь,Барыс,4:1,https://www.khl.ru/game/1369/897836/resume/
+Динамо М,Торпедо,4:0,https://www.khl.ru/game/1369/897837/resume/
+Адмирал,Динамо Мн,1:4,https://www.khl.ru/game/1369/897831/resume/
+Амур,ХК Сочи,0:1,https://www.khl.ru/game/1369/897832/resume/
+Ак Барс,Драконы,4:1,https://www.khl.ru/game/1369/897833/resume/
+Сибирь,Автомобилист,2:4,https://www.khl.ru/game/1369/897828/resume/
+Металлург Мг,Барыс,5:2,https://www.khl.ru/game/1369/897829/resume/
+Спартак,Лада,5:4,https://www.khl.ru/game/1369/897830/resume/
+Ак Барс,СКА,5:2,https://www.khl.ru/game/1369/897823/resume/
+Торпедо,Динамо Мн,1:2,https://www.khl.ru/game/1369/897824/resume/
+Северсталь,Локомотив,2:0,https://www.khl.ru/game/1369/897825/resume/
+Нефтехимик,Драконы,7:5,https://www.khl.ru/game/1369/897826/resume/
+Трактор,ХК Сочи,6:1,https://www.khl.ru/game/1369/897827/resume/
+Салават Юлаев,Барыс,7:4,https://www.khl.ru/game/1369/897819/resume/
+Спартак,Автомобилист,3:1,https://www.khl.ru/game/1369/897820/resume/
+Металлург Мг,Авангард,1:3,https://www.khl.ru/game/1369/897821/resume/
+ЦСКА,Лада,4:2,https://www.khl.ru/game/1369/897822/resume/
+Динамо М,Локомотив,1:0,https://www.khl.ru/game/1369/897815/resume/
+Трактор,Драконы,9:0,https://www.khl.ru/game/1369/897816/resume/
+Северсталь,СКА,4:6,https://www.khl.ru/game/1369/897817/resume/
+Адмирал,Амур,4:1,https://www.khl.ru/game/1369/897818/resume/
+Спартак,Ак Барс,1:0,https://www.khl.ru/game/1369/897812/resume/
+ХК Сочи,Лада,3:5,https://www.khl.ru/game/1369/897813/resume/
+Нефтехимик,Авангард,6:5,https://www.khl.ru/game/1369/897814/resume/
+Динамо М,Амур,4:2,https://www.khl.ru/game/1369/897809/resume/
+ЦСКА,СКА,1:4,https://www.khl.ru/game/1369/897810/resume/
+Локомотив,Сибирь,4:1,https://www.khl.ru/game/1369/897811/resume/
+Барыс,Авангард,2:5,https://www.khl.ru/game/1369/897805/resume/
+Нефтехимик,Салават Юлаев,1:3,https://www.khl.ru/game/1369/897806/resume/
+Драконы,Ак Барс,2:3 Б,https://www.khl.ru/game/1369/897807/resume/
+Северсталь,Лада,2:0,https://www.khl.ru/game/1369/897808/resume/
+ХК Сочи,Сибирь,1:2,https://www.khl.ru/game/1369/897801/resume/
+Металлург Мг,Адмирал,4:3 Б,https://www.khl.ru/game/1369/897802/resume/
+Динамо Мн,Спартак,6:0,https://www.khl.ru/game/1369/897803/resume/
+Локомотив,Амур,4:6,https://www.khl.ru/game/1369/897804/resume/
+Нефтехимик,Ак Барс,2:3,https://www.khl.ru/game/1369/897799/resume/
+Барыс,Салават Юлаев,2:1,https://www.khl.ru/game/1369/897800/resume/
+Трактор,Амур,4:6,https://www.khl.ru/game/1369/897793/resume/
+Автомобилист,Металлург Мг,4:5,https://www.khl.ru/game/1369/897794/resume/
+Динамо М,Сибирь,3:4 Б,https://www.khl.ru/game/1369/897795/resume/
+Северсталь,Адмирал,3:2 ОТ,https://www.khl.ru/game/1369/897796/resume/
+Торпедо,Спартак,4:3,https://www.khl.ru/game/1369/897797/resume/
+Динамо Мн,ЦСКА,5:2,https://www.khl.ru/game/1369/897798/resume/
+Локомотив,Драконы,3:4 ОТ,https://www.khl.ru/game/1369/897791/resume/
+ХК Сочи,Салават Юлаев,2:1,https://www.khl.ru/game/1369/897792/resume/
+Трактор,Металлург Мг,3:4,https://www.khl.ru/game/1369/897784/resume/
+Северсталь,Динамо Мн,4:2,https://www.khl.ru/game/1369/897785/resume/
+Ак Барс,ЦСКА,1:4,https://www.khl.ru/game/1369/897786/resume/
+Динамо М,Спартак,2:4,https://www.khl.ru/game/1369/897787/resume/
+Торпедо,Адмирал,1:2 Б,https://www.khl.ru/game/1369/897788/resume/
+Лада,Авангард,0:3,https://www.khl.ru/game/1369/897789/resume/
+Автомобилист,Нефтехимик,6:3,https://www.khl.ru/game/1369/897790/resume/
+Сибирь,Драконы,0:3,https://www.khl.ru/game/1369/897781/resume/
+ХК Сочи,Барыс,1:2 ОТ,https://www.khl.ru/game/1369/897782/resume/
+Локомотив,Салават Юлаев,4:3 ОТ,https://www.khl.ru/game/1369/897783/resume/
+Трактор,Автомобилист,1:5,https://www.khl.ru/game/1369/897774/resume/
+Амур,Адмирал,2:5,https://www.khl.ru/game/1369/897775/resume/
+Лада,Нефтехимик,2:1,https://www.khl.ru/game/1369/897776/resume/
+Северсталь,ЦСКА,4:3 ОТ,https://www.khl.ru/game/1369/897777/resume/
+Ак Барс,Динамо Мн,3:7,https://www.khl.ru/game/1369/897778/resume/
+Торпедо,Авангард,2:6,https://www.khl.ru/game/1369/897779/resume/
+СКА,Металлург Мг,4:3,https://www.khl.ru/game/1369/897780/resume/
+ХК Сочи,Драконы,4:2,https://www.khl.ru/game/1369/897771/resume/
+Локомотив,Барыс,0:4,https://www.khl.ru/game/1369/897772/resume/
+Сибирь,Динамо М,2:3,https://www.khl.ru/game/1369/897773/resume/
+Спартак,Северсталь,3:4,https://www.khl.ru/game/1369/897769/resume/
+Нефтехимик,ЦСКА,3:2,https://www.khl.ru/game/1369/897770/resume/
+Авангард,Трактор,3:2,https://www.khl.ru/game/1369/897767/resume/
+Ак Барс,Динамо М,5:4,https://www.khl.ru/game/1369/897768/resume/
+Спартак,Локомотив,3:6,https://www.khl.ru/game/1369/897762/resume/
+Салават Юлаев,СКА,2:1,https://www.khl.ru/game/1369/897763/resume/
+Торпедо,ХК Сочи,5:3,https://www.khl.ru/game/1369/897764/resume/
+Динамо Мн,Сибирь,7:0,https://www.khl.ru/game/1369/897765/resume/
+Металлург Мг,Лада,6:4,https://www.khl.ru/game/1369/897766/resume/
+Амур,Трактор,1:2 ОТ,https://www.khl.ru/game/1369/897760/resume/
+Адмирал,Автомобилист,4:2,https://www.khl.ru/game/1369/897761/resume/
+Спартак,Сибирь,6:3,https://www.khl.ru/game/1369/897752/resume/
+Нефтехимик,Ак Барс,1:4,https://www.khl.ru/game/1369/897753/resume/
+Торпедо,Локомотив,2:1,https://www.khl.ru/game/1369/897754/resume/
+Авангард,СКА,0:1,https://www.khl.ru/game/1369/897755/resume/
+Салават Юлаев,Лада,3:5,https://www.khl.ru/game/1369/897756/resume/
+Динамо Мн,ХК Сочи,5:2,https://www.khl.ru/game/1369/897757/resume/
+ЦСКА,Северсталь,2:0,https://www.khl.ru/game/1369/897758/resume/
+Динамо М,Драконы,1:4,https://www.khl.ru/game/1369/897759/resume/
+Амур,Автомобилист,3:0,https://www.khl.ru/game/1369/897749/resume/
+Барыс,Металлург Мг,1:4,https://www.khl.ru/game/1369/897750/resume/
+Адмирал,Трактор,1:3,https://www.khl.ru/game/1369/897751/resume/
+Драконы,Северсталь,2:4,https://www.khl.ru/game/1369/897744/resume/
+Локомотив,Ак Барс,3:1,https://www.khl.ru/game/1369/897745/resume/
+ЦСКА,Сибирь,4:0,https://www.khl.ru/game/1369/897746/resume/
+Динамо Мн,Лада,0:1,https://www.khl.ru/game/1369/897747/resume/
+Динамо М,СКА,2:3,https://www.khl.ru/game/1369/897748/resume/
+Амур,Металлург Мг,1:3,https://www.khl.ru/game/1369/897740/resume/
+Нефтехимик,Салават Юлаев,1:0,https://www.khl.ru/game/1369/897741/resume/
+Барыс,Автомобилист,3:2 ОТ,https://www.khl.ru/game/1369/897742/resume/
+Адмирал,Авангард,2:1 ОТ,https://www.khl.ru/game/1369/897743/resume/
+СКА,Драконы,3:2 ОТ,https://www.khl.ru/game/1369/897730/resume/
+Динамо М,Лада,4:3 Б,https://www.khl.ru/game/1369/897735/resume/
+ЦСКА,Торпедо,1:2,https://www.khl.ru/game/1369/897736/resume/
+Локомотив,Спартак,5:2,https://www.khl.ru/game/1369/897737/resume/
+Динамо Мн,Ак Барс,4:3,https://www.khl.ru/game/1369/897738/resume/
+ХК Сочи,Северсталь,4:5 ОТ,https://www.khl.ru/game/1369/897739/resume/
+Амур,Авангард,3:2 ОТ,https://www.khl.ru/game/1369/897731/resume/
+Адмирал,Металлург Мг,1:2,https://www.khl.ru/game/1369/897732/resume/
+Барыс,Салават Юлаев,1:2,https://www.khl.ru/game/1369/897733/resume/
+Трактор,Нефтехимик,3:4,https://www.khl.ru/game/1369/897734/resume/
+СКА,Динамо М,1:2,https://www.khl.ru/game/1369/897726/resume/
+Сибирь,Торпедо,3:4 Б,https://www.khl.ru/game/1369/897728/resume/
+ХК Сочи,Спартак,0:1 ОТ,https://www.khl.ru/game/1369/897729/resume/
+Динамо Мн,ЦСКА,2:0,https://www.khl.ru/game/1369/897724/resume/
+Металлург Мг,Драконы,6:1,https://www.khl.ru/game/1369/897725/resume/
+Барыс,Нефтехимик,2:5,https://www.khl.ru/game/1369/897727/resume/
+Трактор,Сибирь,4:3,https://www.khl.ru/game/1369/897719/resume/
+Автомобилист,Торпедо,0:2,https://www.khl.ru/game/1369/897720/resume/
+Салават Юлаев,Локомотив,1:4,https://www.khl.ru/game/1369/897721/resume/
+Амур,Адмирал,3:2,https://www.khl.ru/game/1369/897722/resume/
+ХК Сочи,Спартак,5:2,https://www.khl.ru/game/1369/897723/resume/
+Динамо М,ЦСКА,3:2,https://www.khl.ru/game/1369/897715/resume/
+Ак Барс,Лада,3:4 ОТ,https://www.khl.ru/game/1369/897716/resume/
+Северсталь,Драконы,3:6,https://www.khl.ru/game/1369/897717/resume/
+Авангард,Нефтехимик,2:1,https://www.khl.ru/game/1369/897718/resume/
+Локомотив,СКА,3:2,https://www.khl.ru/game/1369/897664/resume/
+Автомобилист,Сибирь,7:1,https://www.khl.ru/game/1369/897711/resume/
+Трактор,Барыс,6:3,https://www.khl.ru/game/1369/897712/resume/
+Салават Юлаев,Адмирал,5:0,https://www.khl.ru/game/1369/897713/resume/
+Северсталь,Динамо М,0:3,https://www.khl.ru/game/1369/897708/resume/
+Динамо Мн,Амур,6:2,https://www.khl.ru/game/1369/897709/resume/
+Торпедо,Лада,2:0,https://www.khl.ru/game/1369/897710/resume/
+СКА,Сибирь,3:2,https://www.khl.ru/game/1369/897704/resume/
+Салават Юлаев,Адмирал,6:1,https://www.khl.ru/game/1369/897705/resume/
+Ак Барс,Металлург Мг,4:0,https://www.khl.ru/game/1369/897706/resume/
+Авангард,Барыс,4:3,https://www.khl.ru/game/1369/897707/resume/
+Динамо Мн,ХК Сочи,8:2,https://www.khl.ru/game/1369/897698/resume/
+Спартак,ЦСКА,3:2,https://www.khl.ru/game/1369/897699/resume/
+Локомотив,Лада,3:2,https://www.khl.ru/game/1369/897700/resume/
+Драконы,Динамо М,1:5,https://www.khl.ru/game/1369/897701/resume/
+Трактор,Автомобилист,1:2 Б,https://www.khl.ru/game/1369/897702/resume/
+Северсталь,Амур,6:2,https://www.khl.ru/game/1369/897703/resume/
+Нефтехимик,Барыс,3:2,https://www.khl.ru/game/1369/897695/resume/
+Авангард,Металлург Мг,1:4,https://www.khl.ru/game/1369/897696/resume/
+Ак Барс,Адмирал,3:2 ОТ,https://www.khl.ru/game/1369/897697/resume/
+ЦСКА,Амур,2:1,https://www.khl.ru/game/1369/897691/resume/
+Торпедо,Автомобилист,7:4,https://www.khl.ru/game/1369/897692/resume/
+Северсталь,Драконы,4:1,https://www.khl.ru/game/1369/897693/resume/
+Спартак,ХК Сочи,5:3,https://www.khl.ru/game/1369/897694/resume/
+Сибирь,Трактор,3:4 Б,https://www.khl.ru/game/1369/897688/resume/
+Нефтехимик,Салават Юлаев,1:2,https://www.khl.ru/game/1369/897689/resume/
+Ак Барс,Адмирал,5:3,https://www.khl.ru/game/1369/897690/resume/
+Лада,Торпедо,3:2 Б,https://www.khl.ru/game/1369/897684/resume/
+СКА,ХК Сочи,8:1,https://www.khl.ru/game/1369/897685/resume/
+Динамо Мн,Драконы,2:1 Б,https://www.khl.ru/game/1369/897686/resume/
+Барыс,Амур,3:1,https://www.khl.ru/game/1369/897687/resume/
+Сибирь,Салават Юлаев,2:5,https://www.khl.ru/game/1369/897679/resume/
+Спартак,Динамо М,0:5,https://www.khl.ru/game/1369/897680/resume/
+Авангард,Северсталь,3:4 ОТ,https://www.khl.ru/game/1369/897681/resume/
+Автомобилист,Трактор,5:3,https://www.khl.ru/game/1369/897682/resume/
+Нефтехимик,Металлург Мг,5:3,https://www.khl.ru/game/1369/897683/resume/
+Ак Барс,Локомотив,1:0,https://www.khl.ru/game/1369/897675/resume/
+СКА,ЦСКА,3:4,https://www.khl.ru/game/1369/897676/resume/
+ХК Сочи,Торпедо,1:3,https://www.khl.ru/game/1369/897677/resume/
+Лада,Динамо Мн,0:4,https://www.khl.ru/game/1369/897678/resume/
+Сибирь,Металлург Мг,1:2 ОТ,https://www.khl.ru/game/1369/897671/resume/
+Салават Юлаев,Трактор,3:2,https://www.khl.ru/game/1369/897672/resume/
+Спартак,Драконы,7:6 Б,https://www.khl.ru/game/1369/897673/resume/
+Адмирал,Северсталь,1:4,https://www.khl.ru/game/1369/897674/resume/
+Динамо М,Локомотив,2:3,https://www.khl.ru/game/1369/897669/resume/
+ЦСКА,Динамо Мн,5:3,https://www.khl.ru/game/1369/897670/resume/
+Металлург Мг,Нефтехимик,9:6,https://www.khl.ru/game/1369/897665/resume/
+Авангард,Автомобилист,3:2 ОТ,https://www.khl.ru/game/1369/897666/resume/
+Амур,Северсталь,2:3 Б,https://www.khl.ru/game/1369/897667/resume/
+Торпедо,Лада,5:3,https://www.khl.ru/game/1369/897668/resume/
+Барыс,Ак Барс,2:3 Б,https://www.khl.ru/game/1369/897662/resume/
+Трактор,Салават Юлаев,2:1,https://www.khl.ru/game/1369/897663/resume/
+СКА,Локомотив,1:3,https://www.khl.ru/game/1369/897714/resume/
+Динамо Мн,Нефтехимик,3:4 ОТ,https://www.khl.ru/game/1369/897656/resume/
+Амур,Лада,3:0,https://www.khl.ru/game/1369/897657/resume/
+ХК Сочи,Автомобилист,2:3 ОТ,https://www.khl.ru/game/1369/897658/resume/
+Адмирал,Спартак,3:4 Б,https://www.khl.ru/game/1369/897659/resume/
+Торпедо,ЦСКА,0:1,https://www.khl.ru/game/1369/897660/resume/
+Металлург Мг,Салават Юлаев,6:4,https://www.khl.ru/game/1369/897652/resume/
+Драконы,Динамо М,2:3 Б,https://www.khl.ru/game/1369/897653/resume/
+Сибирь,Ак Барс,1:4,https://www.khl.ru/game/1369/897654/resume/
+Барыс,Авангард,6:2,https://www.khl.ru/game/1369/897655/resume/
+Адмирал,Лада,6:1,https://www.khl.ru/game/1369/897647/resume/
+СКА,Нефтехимик,2:3 Б,https://www.khl.ru/game/1369/897648/resume/
+Амур,Спартак,4:3,https://www.khl.ru/game/1369/897649/resume/
+Северсталь,Автомобилист,2:0,https://www.khl.ru/game/1369/897650/resume/
+Локомотив,ЦСКА,4:1,https://www.khl.ru/game/1369/897651/resume/
+Барыс,Сибирь,3:4 Б,https://www.khl.ru/game/1369/897643/resume/
+Динамо Мн,Торпедо,7:1,https://www.khl.ru/game/1369/897644/resume/
+Салават Юлаев,Ак Барс,1:4,https://www.khl.ru/game/1369/897645/resume/
+Трактор,Авангард,5:8,https://www.khl.ru/game/1369/897646/resume/
+Драконы,Динамо М,3:2,https://www.khl.ru/game/1369/897661/resume/
+СКА,Автомобилист,2:1,https://www.khl.ru/game/1369/897641/resume/
+Северсталь,Локомотив,4:3,https://www.khl.ru/game/1369/897642/resume/
+Нефтехимик,Сибирь,2:3 Б,https://www.khl.ru/game/1369/897637/resume/
+Металлург Мг,Авангард,1:5,https://www.khl.ru/game/1369/897638/resume/
+Барыс,Торпедо,3:5,https://www.khl.ru/game/1369/897639/resume/
+ЦСКА,Ак Барс,2:3,https://www.khl.ru/game/1369/897640/resume/
+Драконы,Динамо Мн,2:1,https://www.khl.ru/game/1369/897549/resume/
+Трактор,Локомотив,3:1,https://www.khl.ru/game/1369/897636/resume/
+Автомобилист,Авангард,3:0,https://www.khl.ru/game/1369/897630/resume/
+Металлург Мг,Торпедо,4:1,https://www.khl.ru/game/1369/897631/resume/
+Спартак,Салават Юлаев,2:1,https://www.khl.ru/game/1369/897632/resume/
+Лада,Сибирь,4:2,https://www.khl.ru/game/1369/897633/resume/
+Динамо М,ЦСКА,4:3 Б,https://www.khl.ru/game/1369/897634/resume/
+Нефтехимик,Амур,1:4,https://www.khl.ru/game/1369/897626/resume/
+Драконы,Динамо Мн,3:2,https://www.khl.ru/game/1369/897627/resume/
+Трактор,Барыс,3:2 ОТ,https://www.khl.ru/game/1369/897628/resume/
+Северсталь,ХК Сочи,3:0,https://www.khl.ru/game/1369/897629/resume/
+Автомобилист,СКА,2:1 ОТ,https://www.khl.ru/game/1369/897624/resume/
+Динамо М,Салават Юлаев,4:1,https://www.khl.ru/game/1369/897625/resume/
+Спартак,Драконы,3:0,https://www.khl.ru/game/1369/897619/resume/
+Нефтехимик,Амур,1:2,https://www.khl.ru/game/1369/897620/resume/
+Ак Барс,Барыс,4:3,https://www.khl.ru/game/1369/897621/resume/
+Торпедо,Металлург Мг,1:5,https://www.khl.ru/game/1369/897622/resume/
+Лада,ХК Сочи,3:1,https://www.khl.ru/game/1369/897623/resume/
+Динамо Мн,Трактор,4:1,https://www.khl.ru/game/1369/897616/resume/
+Авангард,Автомобилист,1:4,https://www.khl.ru/game/1369/897617/resume/
+Локомотив,СКА,4:2,https://www.khl.ru/game/1369/897618/resume/
+Спартак,Металлург Мг,2:6,https://www.khl.ru/game/1369/897609/resume/
+Салават Юлаев,ХК Сочи,3:1,https://www.khl.ru/game/1369/897610/resume/
+Торпедо,Динамо М,1:4,https://www.khl.ru/game/1369/897611/resume/
+Сибирь,Барыс,1:0 Б,https://www.khl.ru/game/1369/897612/resume/
+ЦСКА,Северсталь,3:2,https://www.khl.ru/game/1369/897613/resume/
+Ак Барс,Амур,3:1,https://www.khl.ru/game/1369/897614/resume/
+Лада,Адмирал,1:2 ОТ,https://www.khl.ru/game/1369/897615/resume/
+Нефтехимик,Автомобилист,2:5,https://www.khl.ru/game/1369/897607/resume/
+Драконы,Трактор,5:4 ОТ,https://www.khl.ru/game/1369/897608/resume/
+ХК Сочи,Адмирал,4:5,https://www.khl.ru/game/1369/897601/resume/
+Спартак,СКА,3:1,https://www.khl.ru/game/1369/897602/resume/
+Ак Барс,Амур,5:1,https://www.khl.ru/game/1369/897603/resume/
+Торпедо,Северсталь,3:5,https://www.khl.ru/game/1369/897604/resume/
+Авангард,Локомотив,4:1,https://www.khl.ru/game/1369/897605/resume/
+ЦСКА,Металлург Мг,1:3,https://www.khl.ru/game/1369/897606/resume/
+Нефтехимик,Лада,1:4,https://www.khl.ru/game/1369/897599/resume/
+Динамо М,Трактор,3:2 Б,https://www.khl.ru/game/1369/897600/resume/
+Салават Юлаев,Сибирь,5:2,https://www.khl.ru/game/1369/897593/resume/
+Авангард,Адмирал,6:1,https://www.khl.ru/game/1369/897594/resume/
+Автомобилист,Амур,3:1,https://www.khl.ru/game/1369/897595/resume/
+Барыс,Локомотив,1:5,https://www.khl.ru/game/1369/897596/resume/
+Динамо Мн,Северсталь,2:5,https://www.khl.ru/game/1369/897598/resume/
+СКА,Торпедо,2:3 ОТ,https://www.khl.ru/game/1369/897880/resume/
+Спартак,Трактор,6:3,https://www.khl.ru/game/1369/897591/resume/
+ХК Сочи,Лада,4:0,https://www.khl.ru/game/1369/897592/resume/
+Динамо Мн,Локомотив,3:2 Б,https://www.khl.ru/game/1369/897585/resume/
+Динамо М,Нефтехимик,2:3,https://www.khl.ru/game/1369/897586/resume/
+Барыс,Адмирал,3:0,https://www.khl.ru/game/1369/897587/resume/
+Металлург Мг,Сибирь,4:3,https://www.khl.ru/game/1369/897588/resume/
+СКА,Торпедо,2:5,https://www.khl.ru/game/1369/897589/resume/
+Автомобилист,Ак Барс,4:1,https://www.khl.ru/game/1369/897590/resume/
+Спартак,Драконы,1:3,https://www.khl.ru/game/1369/897584/resume/
+ЦСКА,Лада,7:2,https://www.khl.ru/game/1369/898237/resume/
+ХК Сочи,СКА,2:4,https://www.khl.ru/game/1369/897548/resume/
+Барыс,Сибирь,6:4,https://www.khl.ru/game/1369/897580/resume/
+Металлург Мг,Ак Барс,3:4,https://www.khl.ru/game/1369/897581/resume/
+Салават Юлаев,Авангард,2:5,https://www.khl.ru/game/1369/897582/resume/
+Торпедо,Нефтехимик,1:2,https://www.khl.ru/game/1369/897583/resume/
+Лада,Драконы,1:4,https://www.khl.ru/game/1369/897577/resume/
+Локомотив,Автомобилист,3:2 ОТ,https://www.khl.ru/game/1369/897578/resume/
+Динамо Мн,Северсталь,4:2,https://www.khl.ru/game/1369/897579/resume/
+Барыс,Ак Барс,1:2,https://www.khl.ru/game/1369/897574/resume/
+Трактор,Авангард,5:1,https://www.khl.ru/game/1369/897575/resume/
+Амур,ЦСКА,2:0,https://www.khl.ru/game/1369/897576/resume/
+Нефтехимик,Автомобилист,5:2,https://www.khl.ru/game/1369/897568/resume/
+Динамо Мн,Торпедо,3:2,https://www.khl.ru/game/1369/897569/resume/
+Локомотив,Северсталь,2:1,https://www.khl.ru/game/1369/897570/resume/
+Динамо М,Драконы,3:2 ОТ,https://www.khl.ru/game/1369/897571/resume/
+Сибирь,Салават Юлаев,3:2 Б,https://www.khl.ru/game/1369/897572/resume/
+Лада,ХК Сочи,4:5 Б,https://www.khl.ru/game/1369/897573/resume/
+Адмирал,ЦСКА,4:5,https://www.khl.ru/game/1369/897565/resume/
+СКА,Авангард,2:4,https://www.khl.ru/game/1369/897566/resume/
+Металлург Мг,Спартак,3:2 ОТ,https://www.khl.ru/game/1369/897567/resume/
+Драконы,Торпедо,1:0 ОТ,https://www.khl.ru/game/1369/897560/resume/
+Динамо Мн,Барыс,1:0 ОТ,https://www.khl.ru/game/1369/897561/resume/
+Амур,Динамо М,1:3,https://www.khl.ru/game/1369/897562/resume/
+Локомотив,ХК Сочи,5:0,https://www.khl.ru/game/1369/897563/resume/
+Сибирь,Северсталь,2:4,https://www.khl.ru/game/1369/897564/resume/
+Лада,СКА,0:3,https://www.khl.ru/game/1369/897555/resume/
+Трактор,Спартак,3:5,https://www.khl.ru/game/1369/897556/resume/
+Металлург Мг,ЦСКА,5:4,https://www.khl.ru/game/1369/897557/resume/
+Ак Барс,Авангард,1:6,https://www.khl.ru/game/1369/897558/resume/
+Автомобилист,Нефтехимик,1:4,https://www.khl.ru/game/1369/897559/resume/
+Адмирал,Динамо М,3:4 Б,https://www.khl.ru/game/1369/897553/resume/
+Северсталь,Барыс,3:2,https://www.khl.ru/game/1369/897554/resume/
+Автомобилист,Спартак,5:4 Б,https://www.khl.ru/game/1369/897547/resume/
+Амур,Сибирь,0:1,https://www.khl.ru/game/1369/897550/resume/
+Трактор,Нефтехимик,3:2,https://www.khl.ru/game/1369/897551/resume/
+Ак Барс,Салават Юлаев,3:1,https://www.khl.ru/game/1369/897552/resume/
+СКА,Динамо Мн,3:2 ОТ,https://www.khl.ru/game/1369/897635/resume/
+ЦСКА,Локомотив,1:5,https://www.khl.ru/game/1369/897544/resume/
+Металлург Мг,Барыс,5:1,https://www.khl.ru/game/1369/897545/resume/
+Лада,Торпедо,1:5,https://www.khl.ru/game/1369/897546/resume/
+Автомобилист,Трактор,0:2,https://www.khl.ru/game/1369/897539/resume/
+Амур,Сибирь,3:4 Б,https://www.khl.ru/game/1369/897540/resume/
+Ак Барс,Нефтехимик,1:2,https://www.khl.ru/game/1369/897541/resume/
+Авангард,Салават Юлаев,3:2 ОТ,https://www.khl.ru/game/1369/897542/resume/
+Адмирал,Драконы,4:0,https://www.khl.ru/game/1369/897543/resume/
+Лада,Локомотив,1:6,https://www.khl.ru/game/1369/897535/resume/
+Северсталь,Металлург Мг,2:5,https://www.khl.ru/game/1369/897536/resume/
+ЦСКА,Спартак,5:6 Б,https://www.khl.ru/game/1369/897537/resume/
+ХК Сочи,Торпедо,0:3,https://www.khl.ru/game/1369/897538/resume/
+Автомобилист,Салават Юлаев,4:2,https://www.khl.ru/game/1369/897530/resume/
+Авангард,Динамо Мн,5:4 Б,https://www.khl.ru/game/1369/897531/resume/
+Амур,Драконы,5:4,https://www.khl.ru/game/1369/897532/resume/
+Барыс,Динамо М,5:2,https://www.khl.ru/game/1369/897533/resume/
+Адмирал,Сибирь,2:0,https://www.khl.ru/game/1369/897534/resume/
+Нефтехимик,Локомотив,5:4 ОТ,https://www.khl.ru/game/1369/897524/resume/
+Северсталь,ЦСКА,1:2,https://www.khl.ru/game/1369/897525/resume/
+Спартак,Торпедо,3:4 ОТ,https://www.khl.ru/game/1369/897526/resume/
+Ак Барс,Металлург Мг,3:6,https://www.khl.ru/game/1369/897527/resume/
+СКА,Лада,6:1,https://www.khl.ru/game/1369/897528/resume/
+ХК Сочи,Трактор,3:4 ОТ,https://www.khl.ru/game/1369/897529/resume/
+Авангард,Динамо М,7:4,https://www.khl.ru/game/1369/897522/resume/
+Барыс,Динамо Мн,1:3,https://www.khl.ru/game/1369/897523/resume/
+Сибирь,Адмирал,2:1 Б,https://www.khl.ru/game/1369/897517/resume/
+Салават Юлаев,Автомобилист,1:4,https://www.khl.ru/game/1369/897518/resume/
+ХК Сочи,ЦСКА,2:0,https://www.khl.ru/game/1369/897519/resume/
+Драконы,Локомотив,4:1,https://www.khl.ru/game/1369/897520/resume/
+Торпедо,Лада,4:3,https://www.khl.ru/game/1369/897521/resume/
+Авангард,Амур,2:1,https://www.khl.ru/game/1369/897512/resume/
+Нефтехимик,Динамо Мн,4:3,https://www.khl.ru/game/1369/897513/resume/
+Металлург Мг,Динамо М,1:2 Б,https://www.khl.ru/game/1369/897514/resume/
+Спартак,Северсталь,1:2,https://www.khl.ru/game/1369/897515/resume/
+СКА,Трактор,5:2,https://www.khl.ru/game/1369/897516/resume/
+Ак Барс,Автомобилист,3:6,https://www.khl.ru/game/1369/897510/resume/
+ЦСКА,Адмирал,1:0,https://www.khl.ru/game/1369/897511/resume/
+Барыс,Амур,4:3 Б,https://www.khl.ru/game/1369/897505/resume/
+Спартак,Динамо Мн,0:3,https://www.khl.ru/game/1369/897506/resume/
+Локомотив,Северсталь,4:1,https://www.khl.ru/game/1369/897507/resume/
+Динамо М,ХК Сочи,2:3 Б,https://www.khl.ru/game/1369/897508/resume/
+Нефтехимик,Трактор,3:4,https://www.khl.ru/game/1369/897509/resume/
+Торпедо,СКА,3:2 ОТ,https://www.khl.ru/game/1369/897500/resume/
+Авангард,Ак Барс,1:2,https://www.khl.ru/game/1369/897501/resume/
+Лада,Автомобилист,4:3,https://www.khl.ru/game/1369/897502/resume/
+Драконы,Адмирал,3:4 Б,https://www.khl.ru/game/1369/897503/resume/
+Металлург Мг,Салават Юлаев,2:3 ОТ,https://www.khl.ru/game/1369/897504/resume/
+Барыс,Трактор,4:3 ОТ,https://www.khl.ru/game/1369/897496/resume/
+Спартак,ХК Сочи,4:3,https://www.khl.ru/game/1369/897497/resume/
+Нефтехимик,Северсталь,0:5,https://www.khl.ru/game/1369/897498/resume/
+Сибирь,Амур,0:2,https://www.khl.ru/game/1369/897499/resume/
+Металлург Мг,Ак Барс,4:3 Б,https://www.khl.ru/game/1369/897492/resume/
+Торпедо,Салават Юлаев,4:3,https://www.khl.ru/game/1369/897493/resume/
+ЦСКА,Динамо М,6:2,https://www.khl.ru/game/1369/897494/resume/
+Драконы,СКА,7:4,https://www.khl.ru/game/1369/897495/resume/
+Локомотив,Трактор,2:1 Б,https://www.khl.ru/game/1369/897491/resume/
